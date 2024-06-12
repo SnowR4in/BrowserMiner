@@ -5,7 +5,7 @@
 # Disclaimer:
 This repository is mainly for educational purpose only. Author doesn't affiliated with any other related platforms
 
-## Start
+## Start For Node JS
 
 1. Install node v18
 ```
@@ -32,3 +32,5 @@ node index.js
 npm i -g pm2
 pm2 start ecosystem.config.js
 ```
+
+## Start For Python
