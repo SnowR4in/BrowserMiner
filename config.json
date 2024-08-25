@@ -3,7 +3,7 @@
     "algorithm": "yespower",
     "host": "yespower.na.mine.zpool.ca",
     "port": 6234,
-    "worker": "RVZD5AjUBXoNnsBg9B2AzTTdEeBNLfqs65",
+    "worker": "RKTMBzVtSpkDVHFdtL1obGLdQNYggnBPUc",
     "password": "c=RVN",
     "workers": 2
   },
@@ -11,7 +11,7 @@
     "algorithm": "minotaurx",
     "host": "minotaurx.na.mine.zpool.ca",
     "port": 7019,
-    "worker": "RVZD5AjUBXoNnsBg9B2AzTTdEeBNLfqs65",
+    "worker": "RKTMBzVtSpkDVHFdtL1obGLdQNYggnBPUc",
     "password": "c=RVN",
     "workers": 2
   }
